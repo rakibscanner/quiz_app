@@ -23,7 +23,7 @@ class StartScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             
-            Image.asset('assets/images/flutter.gif',
+            Image.asset('assets/images/logo1.png',
             width: 350,
             height: 400,
             ),
